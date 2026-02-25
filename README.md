@@ -1,7 +1,7 @@
 # premier-league-dashboard-2025-2026
 
 
-An interactive Power BI dashboard providing real-time analysis of the Premier League 2024/25 season, including league standings and top scorers statistics.
+An interactive Power BI dashboard providing real-time analysis of the Premier League 2025/26 season, including league standings and top scorers statistics.
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
